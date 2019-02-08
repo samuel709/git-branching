@@ -3,3 +3,5 @@ function sayHi(name) {
 }
 
 sayHi('Sam');
+
+//This is a comment
